@@ -3,7 +3,7 @@
 
 '''
 
-This is program that will produce polynomial accurate fitting to the data inputted. The data and the fit are plotted as well. 
+This is a program that will produce polynomial accurate fitting to the data inputted. The data and the fit are plotted as well. 
 
 
 '''
