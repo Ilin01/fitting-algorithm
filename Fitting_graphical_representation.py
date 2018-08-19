@@ -1,3 +1,14 @@
+
+
+
+'''
+
+This is program that will produce polynomial accurate fitting to the data inputted. The data and the fit are plotted as well. 
+
+
+'''
+
+
 import numpy.polynomial.polynomial as poly
 import sys
 import numpy as np
