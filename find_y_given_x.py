@@ -28,28 +28,12 @@ def progress(count, total, status=''):
 	
 	
 
-data2=np.load('C:/Users/User/OneDrive/third_year_proj/new method/l-b-vl-vrh-mass-R-rxy.npz')
-data = np.load('C:/Users/User/OneDrive/UCLan_internship/maps_code/coords.708main.asc.npz')
-
-age=data['age']
-R=data2['R']
-vr=data2['vrh']
-m=data2['m']
-vl=data2['vl']
-l=data2['l']
-b=data2['b']
 
 
 
 
 time1=time.clock()	
 
-
-
-
-df = pd.DataFrame({'R': R, 'age': age, 'l': l,'b': b})
-
-df = df[['R','age','l','b']]
 
 
 
