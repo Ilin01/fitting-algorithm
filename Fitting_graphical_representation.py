@@ -87,8 +87,6 @@ Dframe=pd.DataFrame({'y_values': y_values, 'x_values': x_values })
 dataframe = Dframe[['y_values','x_values']]
 		
 		
-#Comment: if an x value crosses the graph line at more than one location (in which case this graph would not represent a function) then the program outputs one of the y values that the graph crosses at the x coordinate inputted or the program outputs a y value in between the y values at which the x value crosses the graph line
-		
 #the degree of the polynomial fitting (recommended deg=12)
 deg=12
 		
