@@ -1,1 +1,3 @@
+This algorithm has the capability to find accuratelly the y value corresponding to an x value of a graph of every shape as long as it represnts a function.
 
+Feel free to use cython if the program is too slow.
