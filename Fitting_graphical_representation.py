@@ -1,8 +1,8 @@
 
 '''
 
-This program will produce accurate restricted polynomial fitting based on a machine-learning method for the data inputted. A plot of the fit and data will be produced as well. 
-The main limitation of this algorithm is that it does not work for data distributions with significant gaps between the points plotted. Read this code and you'll understand why.
+This program will produce accurate restricted polynomial fitting for the data inputted. A plot of the fit and data will be produced as well. 
+The main limitation of this algorithm is that it does not work for data distributions with significant gaps on the x axis between the points plotted. 
 
 '''
 import warnings
