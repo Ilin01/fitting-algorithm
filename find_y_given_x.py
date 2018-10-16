@@ -1,6 +1,6 @@
 
 '''
-This program will produce accurate restricted polynomial fitting based on a machine-learning method for the data inputted. This program will find the y value for a given x value of a graph.
+This program will produce accurate restricted polynomial fitting for the data inputted. This program will find the y value for a given x value of a graph.
 '''
 
 import numpy.polynomial.polynomial as poly
