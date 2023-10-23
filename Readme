@@ -1,4 +1,4 @@
-This algorithm has the capability of finding accuratelly the y value corresponding to an x value of a graph of every shape as long as it represnts a function.
-The core of this code in given by recursive fitting by minimizing distances on the x dimension.
+This algorithm has the capability of finding accuratelly the y value corresponding to an x value of a graph of every shape as long as it represents a function.
+The core of this code is given by recursive fitting by minimizing distances on the x dimension.
 
 Feel free to use cython if the program is too slow.
